@@ -9,7 +9,7 @@
    👯 **I’m looking to collaborate on:** beginner friendly projects
    
    
-   <br />
+   <br>
 
 
 
