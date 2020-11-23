@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Philipp</h1>
 <h3 align="center">I am just starting my journey into Programming</h3>
 
-- 🔭 I’m currently working on **a tkinter GUI to manage DnD Sessions**
+   * 🔭 **I’m currently working on:** a tkinter GUI to manage DnD Sessions
 
-- 🌱 I’m currently learning **Flask, bash, HTML and a lot of other stuff**
+   * 🌱 **I’m currently learning:** Flask, bash, HTML and a lot of other stuff
 
-- 👯 I’m looking to collaborate on **beginner friendly projects**
+   * 👯 **I’m looking to collaborate on:** beginner friendly projects
 
 
 <h3 align="left">Languages and Tools:</h3>
