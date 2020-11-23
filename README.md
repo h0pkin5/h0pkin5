@@ -7,6 +7,9 @@
    🌱 **I’m currently learning:** Flask, bash, HTML and a lot of other stuff
 
    👯 **I’m looking to collaborate on:** beginner friendly projects
+   
+   
+   <br />
 
 
 
